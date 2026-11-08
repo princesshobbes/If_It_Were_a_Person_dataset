@@ -10,7 +10,8 @@ authors:
     affiliation: Real Safety AI Foundation
     orcid: "https://orcid.org/0009-0007-2954-6313"
 license: CC-BY-SA-4.0
-url: "https://realsafetyai.org"
+url: "https://github.com/princesshobbes/If_It_Were_a_Person_dataset"
+repository-code: "https://github.com/princesshobbes/If_It_Were_a_Person_dataset"
 abstract: >-
   Every incident in the AI Incident Database through November 2, 2026
   (1,786 incidents), read against one question: if a person had done
