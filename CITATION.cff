@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "If It Were a Person: Incident, Law, and Precedent Dataset for 1,786 AI Incident Database Incidents"
+version: "1.0"
+date-released: "2026-11-08"
+authors:
+  - family-names: Gilly
+    given-names: Travis
+    affiliation: Real Safety AI Foundation
+    orcid: "https://orcid.org/0009-0007-2954-6313"
+license: CC-BY-SA-4.0
+url: "https://realsafetyai.org"
+abstract: >-
+  Every incident in the AI Incident Database through November 2, 2026
+  (1,786 incidents), read against one question: if a person had done
+  exactly what the record describes, would existing US law treat it as a
+  crime, a civil wrong, a breach of a preventive rule, or nothing? Each
+  incident is answered under the law in force today and under the law in
+  force on the incident date, with the laws cited, how the responsible
+  company is reached, and what would change for the company if the AI
+  system were treated as a legal person.
+keywords:
+  - AI incidents
+  - AI Incident Database
+  - AI liability
+  - legal personhood
+  - criminal law
+  - tort law
+  - civil rights
+references:
+  - type: database
+    title: "AI Incident Database"
+    authors:
+      - name: Responsible AI Collaborative
+    url: "https://incidentdatabase.ai"
+    license: CC-BY-SA-4.0
+    notes: "Snapshot of November 2, 2026."
+  - type: database
+    title: "AI Incident Tracker"
+    authors:
+      - name: MIT AI Risk Initiative
+    url: "https://airisk.mit.edu"
+    license: CC-BY-4.0
+    notes: "Data as of November 7, 2026."

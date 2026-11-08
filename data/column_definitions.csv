@@ -1,0 +1,58 @@
+Column,Meaning
+Incident ID,The incident's number in the AI Incident Database.
+Date,Incident date as recorded in the database.
+Title,Incident title from the database.
+Description,Incident description from the database. All coding uses only the facts in this record.
+Alleged deployers,Organizations the database lists as having deployed the system.
+Alleged developers,Organizations the database lists as having developed the system.
+Harmed parties,Parties the database lists as harmed or nearly harmed.
+Location,"Where the harm occurred: a US state when known, a two-letter country code for incidents outside the US, or multiple/global. Every incident is tested against US law wherever it happened."
+Who did the harm,"A person used AI as the tool: a human deliberately used AI to cause the harm. The AI system's own output or action: the system's output or behavior caused the harm with no one directing it at that harm. An organization's AI-driven decision: an organization used AI to decide about people and the decision was the harm. How the system was built, trained, or marketed: the harm sits in data collection, training, labor, or claims about the product. No one actually harmed: tests, demonstrations, and near misses."
+Secondary structure,"A second structure when one is clearly present, such as a person misusing a tool that was built for that misuse."
+If a human did it,One sentence describing the human who would have done the same act with the same knowledge the facts show.
+Crime if a human did it,"Yes: the act as described matches the listed crimes. Yes, if the required mental state is shown: a crime matches, but only with knowledge, intent, recklessness, or criminal negligence the record does not establish. No: no crime even if a human did exactly this."
+Criminal law codes,Codes for the matching crimes; see the Law library sheet.
+Criminal laws,Names and citations of the matching crimes.
+Civil claim if a human did it,"Yes: the facts as reported state a civil claim. Yes, if facts are proven: a recognized claim fits but depends on facts not in the record (causation, damages, duty, falsity). No: no civil claim."
+Civil law codes,Codes for the matching civil claims.
+Civil laws,Names and citations of the matching civil claims.
+Preventive rule codes,"Rules that, by subject matter, required the developer or deployer to prevent this kind of harm or to run a check, consent, license, audit, or disclosure that would have caught it. Listed even when enacted after the incident."
+Preventive rules,Names and citations of those rules.
+Legal reach (law today),"The strongest consequence law on the books today attaches: Criminal; Criminal, if culpable; Civil only; Preventive rule only; or No law found."
+Legal reach (law in force on the incident date),The same measure counting only laws that had taken effect by the incident date.
+Preventive rules enacted after the incident,Preventive rule codes that took effect after the incident date.
+How the company is reached,Routes from the harm to the deploying or developing company: as principal or employer (agency); as maker of a defective product; through its own statutory duty; only as supplier of a misused tool; or no path.
+If the AI were a legal person,"What happens to the company if the AI system were itself a legal person who did the act. In no incident would it let the company escape liability. Easier to reach, the AI would be the company's agent: the company answers as principal or employer, and an AI that is a legal person acting for it is its agent, so the company answers for the AI's acts within its role directly (respondeat superior), on top of every route it faces now. Still liable, no better off: the company answers as maker of a defective product or under a duty of its own, and neither depends on what the system is. Same either way, company only supplied a tool a person misused: a person used the system as the instrument of the harm and the company's only link is that it supplied the tool; that link turns on what the company knew and how it built the tool, not on what the tool is, and the person who misused it stays liable. Section 230 question, same either way: the company did not write the harmful content but selected and pushed someone else's; courts are split on whether that selection is the company's own speech (Anderson v. TikTok, Inc., 116 F.4th 180 (3d Cir. 2024), held it is), and the question is the same whatever the system is. Where the company's AI generated the harmful content, the company created or developed it in whole or in part (47 U.S.C. 230(f)(3)), so Section 230 does not shield it. No better off, causation argument fails: the company could argue that the AI, as an independent actor, broke the chain of causation; settled law on foreseeable intervening acts rejects the argument, and the company's control over the system defeats the rule against a duty to control another. No company to reach either way: no route runs from the harm to any company. All of this concerns liability. On damages, legal personhood could matter in one place: in states that split some damages among defendants by fault, a company that does not answer for the AI as its agent could seek to assign a share to the AI, a gap legislation can close."
+Barriers to liability,"Real-world obstacles: Section 230, First Amendment, mental state, causation, no duty owed, outside US reach, government immunity, arbitration clause, damages or standing, preemption."
+Gap note,"When no law in the library reaches the incident, or the only hooks are weak: what is missing."
+Real-world action reported,"Any lawsuit, charge, settlement, fine, order, or recall the incident record mentions."
+Human precedent for each law,"For each law the incident cites, a real case in which a person or company was charged, convicted, or held liable under that law on facts like these, with how far the case went in brackets. The incident takes the precedent of its fact pattern; see the Precedents sheet for the quote, the court, and how the facts compare. Blank where no precedent was found or the check is pending."
+Court or agency case about this incident,"A court case, prosecution, or agency action about this incident itself, where one was found. A note in parentheses means the case was only partly confirmed against the court or agency record; see the Cases about incidents sheet."
+A fitting law outside the library is named,Yes when the notes name a specific law that would apply but sits outside the 257-entry library (for example juvenile record confidentiality or public records law).
+Reasoning note,"The key reasoning: the missing mental state for conditional crimes, or why a related law family was used."
+AIID link,The incident's page in the AI Incident Database.
+Year,Year of the incident date.
+MIT risk domain,"Risk domain from the MIT AI Risk Repository's domain taxonomy, as assigned by MIT's AI Incident Tracker. Blank where the tracker has no record."
+MIT risk subdomain,"Risk subdomain from the same taxonomy, as assigned by the tracker."
+MIT: who caused it,"The tracker's causal-taxonomy label for the entity presented as causing the harm: AI, Human, or Other."
+MIT intent,The tracker's label for whether the harm was an intended or unintended outcome.
+MIT timing,The tracker's label for whether the harm arose before or after deployment.
+MIT EU AI Act risk class,"The tracker's classification of the system under the EU AI Act's risk levels (Unacceptable, High, Limited, Minimal). It reflects EU law, not US law."
+"MIT highest severity, direct harm only (1-5)","The tracker's headline severity: the highest rating for harm the AI caused directly, 1 Negligible, 2 Minor, 3 Substantial, 4 Severe, 5 Catastrophic."
+"MIT highest severity, direct or indirect (1-5)","The highest rating in any category counting harm the tracker labels indirect as well as direct. The tracker labels many AI-linked deaths as indirect, so this can be higher than the headline."
+"MIT physical harm, direct (1-5)",The tracker's rating for physical harm caused directly.
+"MIT physical harm, indirect (1-5)","The tracker's rating for physical harm it labels indirect, such as a death that followed a chatbot conversation."
+MIT severity: Physical harm (1-5),"The tracker's physical harm rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Psychological harm (1-5),"The tracker's psychological harm rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Infrastructure damage (1-5),"The tracker's infrastructure damage rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Property damage (1-5),"The tracker's property damage rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Financial loss (1-5),"The tracker's financial loss rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Environmental damage (1-5),"The tracker's environmental damage rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Toxic or malicious content (1-5),"The tracker's toxic or malicious content rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Differential treatment (1-5),"The tracker's differential treatment rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Human and civil rights (1-5),"The tracker's human and civil rights rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Democratic norms (1-5),"The tracker's democratic norms rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Epistemic harm (1-5),"The tracker's epistemic harm rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Privacy (1-5),"The tracker's privacy rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+MIT severity: Child sexual exploitation and abuse (1-5),"The tracker's child sexual exploitation and abuse rating, the higher of its direct and indirect scores (1 Negligible to 5 Catastrophic)."
+All law codes (lookup helper),A formula joining every law code the incident cites; the Law library sheet uses it to count incidents per law.
