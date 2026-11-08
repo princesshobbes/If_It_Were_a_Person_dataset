@@ -64,7 +64,7 @@ Harm severity ratings, MIT risk labels, and EU AI Act risk classes in the column
 
 Gilly, Travis, *If It Were a Person: Incident, Law, and Precedent Dataset for 1,786 AI Incident Database Incidents* (November 8, 2026). Available at https://github.com/princesshobbes/If_It_Were_a_Person_dataset
 
-The companion article is Travis Gilly, *If It Were a Person: What Existing Law Reaches in 1,786 AI Incidents, and Why Legal Personhood for AI Would Shield No Company* (2026).
+The companion article is Gilly, Travis, *If It Were a Person: What Existing Law Reaches in 1,786 AI Incidents, and Why Legal Personhood for AI Would Shield No Company* (November 2026). Available at https://doi.org/10.68481/kmh26e
 
 ## Contact
 

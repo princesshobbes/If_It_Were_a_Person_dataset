@@ -30,6 +30,19 @@ keywords:
   - tort law
   - civil rights
 references:
+  - type: article
+    title: "If It Were a Person: What Existing Law Reaches in 1,786 AI Incidents, and Why Legal Personhood for AI Would Shield No Company"
+    authors:
+      - family-names: Gilly
+        given-names: Travis
+        affiliation: Real Safety AI Foundation
+        orcid: "https://orcid.org/0009-0007-2954-6313"
+    doi: 10.68481/kmh26e
+    year: 2026
+    month: 11
+    publisher:
+      name: Real Safety AI Foundation
+    notes: "Companion article."
   - type: database
     title: "AI Incident Database"
     authors:
