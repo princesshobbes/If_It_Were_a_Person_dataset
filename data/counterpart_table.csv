@@ -1,0 +1,356 @@
+Conduct family,Legal system,Law codes,Fit,Actor,What differs
+F01 Fraud and theft by deception (crime),European Union,EU-NCP-3,Narrower,Any,EU level law covers fraud with payment instruments and fraud done by interfering with an information system or its data. Fraud by deceiving the victim is member state criminal law.
+F01 Fraud and theft by deception (crime),United Kingdom,UK-FA-2,Same reach,Any,
+F01 Fraud and theft by deception (crime),Australia,AU-ACT-CC-326; AU-CC-474.14,Same reach,Any,Territory fraud offenses (ACT) stand in for state law.
+F01 Fraud and theft by deception (crime),India,IN-BNS-318; IN-IPC-420; IN-ITA-66C,Same reach,Any,
+F01 Fraud and theft by deception (crime),China,CN-CL-266,Same reach,Any,
+F01 Fraud and theft by deception (crime),Canada,CA-CC-380,Same reach,Any,
+F01 Fraud and theft by deception (crime),South Korea,KR-CA-347,Same reach,Any,
+F01 Fraud and theft by deception (crime),South Africa,ZA-CL-FRAUD; ZA-CYB-8,Same reach,Any,
+F02 Securities and market fraud,European Union,EU-MAR-15,Same reach,Any,
+F02 Securities and market fraud,United Kingdom,UK-FSA-89,Same reach,Any,
+F02 Securities and market fraud,Australia,AU-CORP-1041E,Same reach,Any,
+F02 Securities and market fraud,India,IN-BNS-318; IN-IPC-420,Narrower,Any,Reached only as cheating. The securities laws were not read.
+F02 Securities and market fraud,China,CN-CL-266,Narrower,Any,Reached only as fraud. The securities crimes were not read.
+F02 Securities and market fraud,Canada,CA-CC-380,Same reach,Any,Fraud on the public; the provincial securities Acts were not read.
+F02 Securities and market fraud,South Korea,KR-CA-347,Narrower,Any,Reached only as fraud. The capital markets Act was not read.
+F02 Securities and market fraud,South Africa,ZA-CL-FRAUD,Same reach,Any,Reached as fraud; the financial markets Act was not read.
+F03 Civil fraud and misrepresentation,European Union,EU-UCPD-6,Narrower,Organization only,Only misleading commercial practices by traders toward consumers. Deceit between private persons is member state law.
+F03 Civil fraud and misrepresentation,United Kingdom,UK-MA-2; UK-FA-2,Same reach,Any,Damages between contracting parties; fraud is also a crime.
+F03 Civil fraud and misrepresentation,Australia,AU-ACL-18; AU-CORP-1041E,Same reach,Organization only,Misleading conduct in trade or commerce and about financial products. Judge made deceit between private persons was not read.
+F03 Civil fraud and misrepresentation,India,IN-BNS-318; IN-ICA-17; IN-CPA-89,Same reach,Any,
+F03 Civil fraud and misrepresentation,China,CN-CC-148; CN-CRPL-20; CN-CL-266,Same reach,Any,
+F03 Civil fraud and misrepresentation,Canada,CA-CA-74.01; CA-CC-380; CA-QC-CCQ-1401,Same reach,Any,Misleading representations by businesses; fraud by anyone.
+F03 Civil fraud and misrepresentation,South Korea,KR-CA-347; KR-FLAA-3; KR-CIV-750,Same reach,Any,
+F03 Civil fraud and misrepresentation,South Africa,ZA-CPA-41; ZA-CL-DELICT,Same reach,Any,"Damages in delict for wrongful, culpable conduct that causes harm, and a ban on false representations by suppliers."
+F04 Unfair or deceptive trade practice,European Union,EU-UCPD-6,Same reach,Organization only,Traders dealing with consumers.
+F04 Unfair or deceptive trade practice,United Kingdom,UK-DMCC-226; UK-CPUT-5,Same reach,Organization only,Traders dealing with consumers.
+F04 Unfair or deceptive trade practice,Australia,AU-ACL-18,Same reach,Organization only,Conduct in trade or commerce.
+F04 Unfair or deceptive trade practice,India,IN-CPA-20; IN-CPA-89,Same reach,Organization only,"The consumer authority can order unfair practices stopped and can fine false advertisements. Sector regulators (banking, insurance, airlines) were not read."
+F04 Unfair or deceptive trade practice,China,CN-CRPL-20,Same reach,Organization only,
+F04 Unfair or deceptive trade practice,Canada,CA-CA-74.01,Same reach,Organization only,Representations to the public to promote a product or business interest.
+F04 Unfair or deceptive trade practice,South Korea,KR-FLAA-3,Same reach,Organization only,Labeling and advertising by businesses.
+F04 Unfair or deceptive trade practice,South Africa,ZA-CPA-41,Same reach,Organization only,
+F05 False advertising and trademark,European Union,EU-EUTM-9; EU-UCPD-6,Same reach,Organization only,Use of a sign in the course of trade.
+F05 False advertising and trademark,United Kingdom,UK-TMA-10; UK-DMCC-226; UK-CPUT-5,Same reach,Organization only,Use in the course of trade.
+F05 False advertising and trademark,Australia,AU-TMA-120; AU-ACL-151,Same reach,Organization only,"Use as a trademark, and false representations in trade or commerce."
+F05 False advertising and trademark,India,IN-TMA-29; IN-CPA-89,Same reach,Organization only,
+F05 False advertising and trademark,China,CN-CL-221; CN-CRPL-20; CN-AL-45,Same reach,Organization only,False advertising and commercial disparagement are read; trademark infringement was not.
+F05 False advertising and trademark,Canada,CA-CA-74.01; CA-TMA-20,Same reach,Organization only,
+F05 False advertising and trademark,South Korea,KR-FLAA-3,Narrower,Organization only,False advertising is reached; trademark infringement was not read.
+F05 False advertising and trademark,South Africa,ZA-CPA-41,Narrower,Organization only,False or misleading representations in marketing. Trademark infringement was not read.
+F06 Contract and warranty,European Union,EU-SGD-7; EU-DCD-8; EU-CSD-2,Same reach,Organization only,Consumer sales of goods and digital services; contracts between businesses are member state law.
+F06 Contract and warranty,United Kingdom,UK-CRA-9; UK-CRA-49; UK-SGA-14; UK-SGSA-13,Same reach,Organization only,Consumer contracts.
+F06 Contract and warranty,Australia,AU-ACL-54,Same reach,Organization only,Consumer guarantees.
+F06 Contract and warranty,India,IN-SGA-16,Same reach,Any,
+F06 Contract and warranty,China,CN-CC-577; CN-CRPL-23; CN-CTL-40,Same reach,Any,
+F06 Contract and warranty,Canada,CA-QC-CCQ-1726; CA-QC-CCQ-1458,Same reach,Any,Quebec civil law.
+F06 Contract and warranty,South Korea,KR-CIV-580,Same reach,Any,
+F06 Contract and warranty,South Africa,ZA-CPA-55,Same reach,Organization only,Consumer goods and services.
+F07 Negligence and wrongful death (civil),European Union,,None found (searched),Any,No EU level law of negligence; member state law governs. Defective products are in family F08.
+F07 Negligence and wrongful death (civil),United Kingdom,UK-FAA-1; UK-CL-NEG,Same reach,Any,
+F07 Negligence and wrongful death (civil),Australia,AU-ACT-CLWA-43,Same reach,Any,Territory civil liability law (ACT) stands in for the state Acts.
+F07 Negligence and wrongful death (civil),India,IN-CL-NEG; IN-FAA-1A,Same reach,Any,"Judge made negligence, taken from the headnote of one Supreme Court judgment, and the wrongful death Act."
+F07 Negligence and wrongful death (civil),China,CN-CC-1165; CN-CC-1179; CN-TLL-6,Same reach,Any,
+F07 Negligence and wrongful death (civil),Canada,CA-QC-CCQ-1457,Same reach,Any,"Quebec civil law; the common law provinces rely on judge made negligence, not read."
+F07 Negligence and wrongful death (civil),South Korea,KR-CIV-750,Same reach,Any,
+F07 Negligence and wrongful death (civil),South Africa,ZA-CL-DELICT,Same reach,Any,
+F08 Product liability and product safety,European Union,EU-GPSR-5; EU-SGD-7; EU-PLD-5; EU-GPSD-3; EU-CSD-2,Narrower,Organization only,"Only safe products may be placed on the market, and consumer goods must be fit for normal use. The product liability directive in force today could not be opened; its replacement binds member states from December 9, 2026."
+F08 Product liability and product safety,United Kingdom,UK-CPA87-2; UK-GPSR-5; UK-RVAR-29; UK-MDR-8,Same reach,Organization only,"Strict liability for defective products, and a general duty on producers to market only safe consumer products, enforced as a crime. Vehicle makers must keep vehicles on the market in conformity and correct or recall those that are not, enforced by fine or civil penalty. Medical devices, including diagnostic software, must meet essential requirements before going on the market. Rules for vehicle trials, aviation and misbranded medicines were outside what was read."
+F08 Product liability and product safety,Australia,AU-ACL-138; AU-ACL-54,Same reach,Organization only,Manufacturers and suppliers.
+F08 Product liability and product safety,India,IN-CPA-84; IN-SGA-16,Same reach,Organization only,
+F08 Product liability and product safety,China,CN-CC-1202; CN-CL-140; CN-CRPL-18; CN-CRPL-23,Same reach,Organization only,
+F08 Product liability and product safety,Canada,CA-CCPSA-7; CA-MVSA-10; CA-QC-CCQ-1468,Same reach,Organization only,Product safety offenses and defect notices are federal; civil liability for a safety defect is read for Quebec.
+F08 Product liability and product safety,South Korea,KR-PLA-3; KR-FAC-19,Same reach,Organization only,
+F08 Product liability and product safety,South Africa,ZA-CPA-61; ZA-CPA-55,Same reach,Organization only,"Producers, importers, distributors and retailers, without proof of negligence."
+"F09 Road, vehicle and navigation rules",European Union,EU-GSR-11,Narrower,Organization only,Type approval requirements for automated vehicles bind manufacturers. Traffic rules and driver offenses are member state law.
+"F09 Road, vehicle and navigation rules",United Kingdom,UK-RTA-2; UK-RTA-1; UK-RTA-36; UK-AVA-3; UK-LGMPA-46,Narrower,Any,"Dangerous and careless driving and ignoring traffic signs are crimes, and a ride service needs vehicle, driver and operator licenses. The authorization scheme for self-driving vehicles is enacted and awaits a start date; licensing for buses, goods vehicles and test vehicles was not read."
+"F09 Road, vehicle and navigation rules",Australia,AU-ACT-RTA-7; AU-ACT-CA-29,Narrower,Any,"Dangerous driving, and culpable driving that causes death or grievous bodily harm, are offenses. Rules for self-driving vehicles and for vehicle makers were not read. One search of the Australian Capital Territory's legislation for a self-driving vehicle law found none; Victoria has trial permit regulations, seen in a search result and outside the territory used as the stand-in, so permits were not read."
+"F09 Road, vehicle and navigation rules",India,IN-MVA-184; IN-MVA-119; IN-MVA-66,Narrower,Any,Dangerous driving is a crime and ignoring traffic signs draws a penalty. India has no self-driving permit in the parts read; the nearest rule is that a vehicle used for hire needs a permit and must keep its conditions. One search of India Code for a self-driving vehicle rule found none.
+"F09 Road, vehicle and navigation rules",China,CN-CL-133; CN-RTSL-38; CN-RTSL-8,Narrower,Any,"Dangerous driving is a crime, ignoring traffic signals draws a warning or fine, and a vehicle may use the road only once registered or with temporary plates. National law has no self-driving permit in the articles read."
+"F09 Road, vehicle and navigation rules",Canada,CA-CC-320.13; CA-QC-HSC-492.8,Narrower,Any,Dangerous driving is a crime. Quebec bans putting autonomous vehicles on public roads outside its exceptions. Ordinary traffic rule violations were not read.
+"F09 Road, vehicle and navigation rules",South Korea,KR-TASA-3; KR-CA-268; KR-MVMA-27,Narrower,Any,"A driver who causes death or injury by negligence in a traffic accident is punished, and a self-driving vehicle used for testing needs a temporary operation permit. Traffic violations without injury were not read."
+"F09 Road, vehicle and navigation rules",South Africa,ZA-NRTA-63; ZA-NRTA-58; ZA-NLTA-50,Narrower,Any,"Reckless or negligent driving and ignoring road traffic signs are crimes, and a passenger service needs an operating license. Rules specific to self-driving vehicles, goods vehicles and test vehicles were not read."
+"F10 Homicide, endangerment and assault (crime)",European Union,,None found (searched),Any,No EU level law of homicide or assault was found; member state law governs.
+"F10 Homicide, endangerment and assault (crime)",United Kingdom,UK-RTA-1; UK-CMCHA-1; UK-CJA-39,Narrower,Any,"Read so far: death by dangerous driving, deaths caused by gross management failure of an organization, and assault and battery. Murder, manslaughter by a person and endangerment were not read."
+"F10 Homicide, endangerment and assault (crime)",Australia,AU-ACT-CA-12; AU-ACT-CA-26; AU-ACT-CA-29; AU-ACT-WHS-32,Same reach,Any,Territory offenses (ACT) stand in for state criminal law.
+"F10 Homicide, endangerment and assault (crime)",India,IN-BNS-106; IN-BNS-109; IN-BNS-117; IN-IPC-304A; IN-IPC-302; IN-IPC-323,Same reach,Any,
+"F10 Homicide, endangerment and assault (crime)",China,CN-CL-232; CN-CL-234; CN-CL-133; CN-CL-134,Same reach,Any,
+"F10 Homicide, endangerment and assault (crime)",Canada,CA-CC-220; CA-CC-236; CA-CC-266; CA-CC-320.13,Same reach,Any,
+"F10 Homicide, endangerment and assault (crime)",South Korea,KR-CA-250; KR-CA-268; KR-CA-260,Same reach,Any,
+"F10 Homicide, endangerment and assault (crime)",South Africa,ZA-CL-HOMICIDE,Same reach,Any,Murder and culpable homicide. Assault as a separate crime was not read.
+F11 Workplace safety,European Union,EU-OSH-5,Same reach,Organization only,Employers must ensure the safety and health of workers in every aspect related to the work; penalties are member state law.
+F11 Workplace safety,United Kingdom,UK-HSWA-3,Same reach,Organization only,
+F11 Workplace safety,Australia,AU-ACT-WHS-32,Same reach,Organization only,Persons conducting a business or undertaking.
+F11 Workplace safety,China,CN-CL-134; CN-WSL-4,Same reach,Any,Businesses must ensure safe production under the Work Safety Law; the crime of causing a serious accident by violating safety rules is in the Criminal Law.
+F11 Workplace safety,Canada,CA-CLC-124; CA-CC-217.1; CA-CC-220,Same reach,Organization only,Federally regulated workplaces; provincial workplace safety law was not read.
+F11 Workplace safety,South Korea,KR-SAPA-6,Same reach,Organization only,
+F11 Workplace safety,South Africa,ZA-OHSA-8,Same reach,Organization only,"Employers must keep the working environment safe, and breach is a crime."
+F12 Intentional torts to the person,European Union,,None found (searched),Any,No EU level law of intentional torts to the person; member state law governs.
+F12 Intentional torts to the person,United Kingdom,UK-PHA-1; UK-PHA-2,Narrower,Any,"Reaches a course of conduct that amounts to harassment; a single act, and false imprisonment, need judge made torts not yet read."
+F12 Intentional torts to the person,Australia,AU-CL-FI,Narrower,Any,"False imprisonment only. Battery, assault and intentional infliction of harm as civil wrongs were not read."
+F12 Intentional torts to the person,India,IN-CL-BATTERY,Narrower,Any,"Read so far: unconsented interference with the body is the civil wrong of assault and battery. False imprisonment, malicious prosecution and intentional emotional harm were not read."
+F12 Intentional torts to the person,China,CN-CC-1165; CN-CC-1183; CN-TLL-6,Same reach,Any,
+F12 Intentional torts to the person,Canada,CA-QC-CCQ-1457,Same reach,Any,Quebec civil law: any fault causing bodily or moral injury.
+F12 Intentional torts to the person,South Korea,KR-CIV-750,Same reach,Any,
+F12 Intentional torts to the person,South Africa,ZA-CL-DELICT; ZA-CL-DEFAM; ZA-PHA-1,Same reach,Any,The action for injury to personality covers liberty and dignity; a protection order is available against harassment.
+F13 Defamation (civil),European Union,EU-GDPR-5-9; EU-DPD-6-8,Narrower,Any,"No EU level law of defamation. The data protection accuracy rule reaches false personal data that is processed, as used in the first pass."
+F13 Defamation (civil),United Kingdom,UK-DA-1,Same reach,Any,
+F13 Defamation (civil),Australia,AU-ACT-CLWA-120,Same reach,Any,Serious harm to reputation is an element.
+F13 Defamation (civil),India,IN-BNS-356; IN-IPC-499,Broader,Any,A crime as well as a civil wrong.
+F13 Defamation (civil),China,CN-CC-1019; CN-CL-246; CN-CC-1024; CN-TLL-36,Broader,Any,"A civil wrong, and a crime where serious."
+F13 Defamation (civil),Canada,CA-CC-301; CA-QC-CCQ-36; CA-QC-CCQ-35; CA-QC-CCQ-1457,Same reach,Any,Criminal libel needs a statement known to be false (s. 300); the Civil Code of Quebec covers reputation.
+F13 Defamation (civil),South Korea,KR-CA-307; KR-ICNA-70; KR-CIV-750,Broader,Any,A crime as well as a civil wrong.
+F13 Defamation (civil),South Africa,ZA-CL-DEFAM,Same reach,Any,
+F14 Privacy and data protection,European Union,EU-GDPR-5-9; EU-DPD-6-8,Broader,Any,Reaches any processing of personal data outside purely personal or household activity; no highly offensive intrusion needs to be shown.
+F14 Privacy and data protection,United Kingdom,UK-GDPR-5-9; UK-DPA-170; UK-DPA98-4,Broader,Any,As the EU entry.
+F14 Privacy and data protection,Australia,AU-PA-APP3; AU-PA-APP10; AU-PA-TORT,Narrower,Any,"The Privacy Act principles bind agencies and larger organizations. Since June 10, 2025 anyone can be sued for a serious, intentional or reckless invasion of privacy."
+F14 Privacy and data protection,India,IN-SPDI-5; IN-ITA-66E; IN-ITA-43A; IN-ITA-72A,Narrower,Organization only,Capturing or publishing images of private areas is a crime for anyone; data security and disclosure rules bind bodies corporate and service providers. The general data protection Act is not yet in force.
+F14 Privacy and data protection,China,CN-PIPL-28; CN-CC-1019; CN-CC-1032; CN-CL-253-1; CN-TLL-36,Broader,Any,
+F14 Privacy and data protection,Canada,CA-PIPEDA-5; CA-QC-CCQ-36; CA-QC-PPIPS-12; CA-QC-CCQ-35,Same reach,Any,PIPEDA binds organizations in commercial activity; the Civil Code of Quebec reaches any person.
+F14 Privacy and data protection,South Korea,KR-PIPA-15; KR-PIPA-23,Narrower,Organization only,The Act binds those who handle personal information for work purposes.
+F14 Privacy and data protection,South Africa,ZA-POPIA-16; ZA-POPIA-26,Broader,Any,Excludes purely personal or household activity.
+"F15 Biometrics, face recognition and tracking",European Union,EU-GDPR-5-9; EU-LED-10,Same reach,Any,Biometric data used to identify a person is a special category of data; police use is under a separate directive. The AI Act bans on some face recognition uses were not read.
+"F15 Biometrics, face recognition and tracking",United Kingdom,UK-GDPR-5-9,Same reach,Any,"Biometric data used to identify a person is special category data. Police use is under a separate part of the 2018 Act, not read."
+"F15 Biometrics, face recognition and tracking",Australia,AU-PA-APP3,Narrower,Organization only,"Biometric information used for automated verification or identification is sensitive information under the Privacy Act, which binds agencies and larger organizations. State police use was not read."
+"F15 Biometrics, face recognition and tracking",India,IN-SPDI-5,Narrower,Organization only,Biometric data is sensitive personal data under rules that bind bodies corporate.
+"F15 Biometrics, face recognition and tracking",China,CN-PIPL-28; CN-CL-253-1,Same reach,Any,
+"F15 Biometrics, face recognition and tracking",Canada,CA-PIPEDA-5; CA-QC-PPIPS-12,Narrower,Organization only,Personal information rules for private organizations; no rule specific to biometric data was read. Police and other public bodies are under other Acts.
+"F15 Biometrics, face recognition and tracking",South Korea,KR-PIPA-23; KR-PIPA-15,Same reach,Organization only,Those who handle personal information for work purposes.
+"F15 Biometrics, face recognition and tracking",South Africa,ZA-POPIA-26,Same reach,Any,Biometric information is special personal information. Excludes purely personal or household activity.
+"F16 Likeness, impersonation and identity theft",European Union,EU-GDPR-5-9; EU-DPD-6-8,Narrower,Any,A likeness is personal data. Impersonation for gain and a free standing right to one's likeness are member state law.
+"F16 Likeness, impersonation and identity theft",United Kingdom,UK-FA-2; UK-GDPR-5-9; UK-DPA98-4,Narrower,Any,"Impersonation for gain is fraud, and a likeness is personal data. A free standing right to one's likeness needs judge made passing off, not read."
+"F16 Likeness, impersonation and identity theft",Australia,AU-CC-372.1; AU-ACT-CC-326,Narrower,Any,"Impersonation for gain is fraud, and dealing in identification information to commit a serious offense is a crime. No free standing right to one's likeness was found."
+"F16 Likeness, impersonation and identity theft",India,IN-ITA-66C; IN-BNS-318; IN-BNS-336; IN-IPC-420; IN-IPC-469,Same reach,Any,
+"F16 Likeness, impersonation and identity theft",China,CN-CC-1019; CN-CL-266; CN-CL-279; CN-CL-253-1; CN-TLL-36,Same reach,Any,
+"F16 Likeness, impersonation and identity theft",Canada,CA-CC-403; CA-CC-402.2; CA-CC-366; CA-QC-CCQ-36,Same reach,Any,
+"F16 Likeness, impersonation and identity theft",South Korea,KR-CA-231; KR-PIPA-15; KR-CA-347,Narrower,Any,"Forged documents, fraud by impersonation, and misuse of personal data are reached; a free standing right to one's likeness rests on the Civil Act, read only for the general tort rule."
+"F16 Likeness, impersonation and identity theft",South Africa,ZA-CYB-8; ZA-CL-FRAUD; ZA-CL-IDENTITY,Narrower,Any,"Impersonation for gain is fraud or cyber forgery, and using a person's name or identity without permission for commercial advantage is a civil wrong."
+F17 Impersonating officials,European Union,,None found (searched),Any,No EU level law on impersonating officials was found; member state law governs.
+F17 Impersonating officials,United Kingdom,UK-POLA-90,Narrower,Any,Police only.
+F17 Impersonating officials,Australia,AU-CC-148.1; AU-ACT-CC-360,Same reach,Any,
+F17 Impersonating officials,India,IN-BNS-204; IN-IPC-170,Same reach,Any,
+F17 Impersonating officials,China,CN-CL-279,Same reach,Any,
+F17 Impersonating officials,Canada,CA-CC-130,Same reach,Any,
+F17 Impersonating officials,South Korea,KR-CA-118,Same reach,Any,The impersonator must also exercise the official's authority.
+F17 Impersonating officials,South Africa,ZA-SAPSA-68,Narrower,Any,"Pretending to be a police member is a crime. Pretending to be another kind of official, or misusing state insignia, was outside what was read; where money is taken the fraud laws apply."
+F18 Computer misuse,European Union,EU-AIS-3,Same reach,Any,
+F18 Computer misuse,United Kingdom,UK-CMA-1; UK-CMA-3,Same reach,Any,
+F18 Computer misuse,Australia,AU-CC-477.1; AU-ACT-CC-415,Same reach,Any,
+F18 Computer misuse,India,IN-ITA-43,Same reach,Any,
+F18 Computer misuse,China,CN-CL-285,Same reach,Any,
+F18 Computer misuse,Canada,CA-CC-342.1; CA-CC-430,Same reach,Any,
+F18 Computer misuse,South Korea,KR-ICNA-48,Same reach,Any,
+F18 Computer misuse,South Africa,ZA-CYB-2,Same reach,Any,
+F19 Interception of communications,European Union,EU-AIS-3; EU-EPD-5,Same reach,Any,
+F19 Interception of communications,United Kingdom,UK-IPA-3,Same reach,Any,
+F19 Interception of communications,Australia,AU-TIA-7; AU-ACT-LDA-4,Same reach,Any,
+F19 Interception of communications,China,CN-CL-252,Narrower,Any,Read for letters only; interception of electronic communications was not read.
+F19 Interception of communications,Canada,CA-CC-184,Same reach,Any,
+F19 Interception of communications,South Korea,KR-PCSA-16,Same reach,Any,
+F19 Interception of communications,South Africa,ZA-RICA-49,Same reach,Any,
+F20 Sexual images of adults without consent,European Union,EU-GDPR-5-9; EU-VAW-5; EU-AIA-5-BA; EU-DPD-6-8,Same reach,Any,"Today an intimate image of an identifiable person is reached as unlawful processing of sensitive personal data. The directive that makes sharing intimate or manipulated material a crime binds member states from June 14, 2027."
+F20 Sexual images of adults without consent,United Kingdom,UK-SOA-66E; UK-SOA-66B,Same reach,Any,
+F20 Sexual images of adults without consent,Australia,AU-CC-474.17A; AU-ACT-CA-72C; AU-OSA-75,Same reach,Any,
+F20 Sexual images of adults without consent,India,IN-ITA-66E; IN-ITA-67; IN-BNS-79,Same reach,Any,Captured intimate images and sexually explicit electronic material are reached; no section aimed at made up intimate images was read.
+F20 Sexual images of adults without consent,China,CN-CC-1019; CN-CL-363; CN-PSAPL-80; CN-TLL-36,Same reach,Any,No offense aimed at intimate images as such; reached as spreading obscene material and through the portrait right.
+F20 Sexual images of adults without consent,Canada,CA-CC-162.1; CA-CC-162.1-B,Same reach,Any,"Real intimate images since 2015; images made by AI or other electronic means only since July 18, 2026."
+F20 Sexual images of adults without consent,South Korea,KR-SVA-14-2; KR-SVA-14,Same reach,Any,
+F20 Sexual images of adults without consent,South Africa,ZA-CYB-16; ZA-FPA-24E,Same reach,Any,The cybercrime offense covers real or simulated intimate images.
+F21 Child sexual abuse material and sexual harm to minors,European Union,EU-CSA-5,Same reach,Any,
+F21 Child sexual abuse material and sexual harm to minors,United Kingdom,UK-PCA-1,Same reach,Any,
+F21 Child sexual abuse material and sexual harm to minors,Australia,AU-CC-474.22; AU-ACT-CA-64A,Same reach,Any,
+F21 Child sexual abuse material and sexual harm to minors,India,IN-ITA-67B; IN-POCSO-13,Same reach,Any,
+F21 Child sexual abuse material and sexual harm to minors,China,CN-CL-363; CN-PSAPL-80,Same reach,Any,Reached as obscene material; no separate offense for material showing children was read.
+F21 Child sexual abuse material and sexual harm to minors,Canada,CA-CC-163.1; CA-CC-172.1,Same reach,Any,
+F21 Child sexual abuse material and sexual harm to minors,South Korea,KR-CYPA-11,Same reach,Any,
+F21 Child sexual abuse material and sexual harm to minors,South Africa,ZA-SORMA-19A,Same reach,Any,
+F22 Obscenity,European Union,,None found (searched),Any,No EU level obscenity law was found; member state law governs.
+F22 Obscenity,United Kingdom,UK-OPA-2,Same reach,Any,
+F22 Obscenity,Australia,AU-CC-474.17,Narrower,Any,Reached only as offensive use of a carriage service. Classification offenses were not read.
+F22 Obscenity,India,IN-BNS-294; IN-ITA-67,Same reach,Any,
+F22 Obscenity,China,CN-CL-363; CN-PSAPL-80,Same reach,Any,
+F22 Obscenity,Canada,CA-CC-163,Same reach,Any,
+F22 Obscenity,South Korea,KR-ICNA-74,Same reach,Any,
+F22 Obscenity,South Africa,ZA-FPA-24A,Narrower,Any,Distributing adult classified material outside the licensing rules. No general obscenity crime was read.
+"F23 Threats, stalking, harassment and incitement",European Union,EU-FD-913; EU-VAW-5,Narrower,Any,"Today: public incitement to violence or hatred against groups defined by race, religion or origin. Online stalking and harassment become crimes under a directive that binds member states from June 14, 2027."
+"F23 Threats, stalking, harassment and incitement",United Kingdom,UK-PHA-2; UK-CA-127; UK-TA68-21,Same reach,Any,Threats to kill are in an 1861 Act not yet read.
+"F23 Threats, stalking, harassment and incitement",Australia,AU-CC-474.15; AU-CC-474.17; AU-ACT-CA-30; AU-ACT-CA-35; AU-ACT-CC-342,Same reach,Any,
+"F23 Threats, stalking, harassment and incitement",India,IN-BNS-351; IN-BNS-308; IN-BNS-78; IN-IPC-506; IN-IPC-384; IN-IPC-354D,Same reach,Any,The stalking offense as worded is committed by a man against a woman.
+"F23 Threats, stalking, harassment and incitement",China,CN-PSAPL-50; CN-CL-293; CN-CL-274; CN-CL-246,Same reach,Any,
+"F23 Threats, stalking, harassment and incitement",Canada,CA-CC-264; CA-CC-264.1; CA-CC-346,Same reach,Any,
+"F23 Threats, stalking, harassment and incitement",South Korea,KR-CA-283; KR-CA-350; KR-STALK-18,Same reach,Any,
+"F23 Threats, stalking, harassment and incitement",South Africa,ZA-CYB-14; ZA-CYB-10; ZA-PHA-1,Same reach,Any,
+F24 Encouraging suicide,European Union,,None found (searched),Any,No EU level law on encouraging suicide was found; member state law governs.
+F24 Encouraging suicide,United Kingdom,UK-SA-2; UK-OSA-184,Same reach,Any,
+F24 Encouraging suicide,Australia,AU-ACT-CA-17; AU-CC-474.29A,Same reach,Any,
+F24 Encouraging suicide,India,IN-BNS-108; IN-IPC-306,Same reach,Any,
+F24 Encouraging suicide,Canada,CA-CC-241,Same reach,Any,
+F24 Encouraging suicide,South Korea,KR-CA-252,Same reach,Any,
+F24 Encouraging suicide,South Africa,ZA-CL-SUICIDE,Same reach,Any,"No separate offense: encouraging or helping a suicide is reached through murder, attempted murder or culpable homicide, depending on intention and causation."
+F25 Companion chatbot safety laws,European Union,EU-DSA-28; EU-AIA-5; EU-AIA-50-1,Narrower,Organization only,"Platforms open to minors must protect them, AI systems that exploit the vulnerabilities of age are banned, and people must be told they are dealing with AI. No law aimed at companion chatbots."
+F25 Companion chatbot safety laws,United Kingdom,UK-OSA-12; UK-OSA-10,Narrower,Organization only,General online safety duties on services; no law aimed at companion chatbots.
+F25 Companion chatbot safety laws,Australia,AU-OSA-143,Narrower,Organization only,"Online services must follow registered industry codes and standards, and social media platforms must keep out users under the minimum age. The code text on AI companions was not read."
+F25 Companion chatbot safety laws,India,,None found (searched),Any,One search of India Code for a rule on artificial intelligence or chatbots found none.
+F25 Companion chatbot safety laws,China,CN-CSL-49,Narrower,Organization only,A general duty to stop and remove banned information; no national law aimed at companion chatbots was read.
+F25 Companion chatbot safety laws,Canada,,None found (searched),Any,"One search of the collection for a Canadian rule on telling people they are dealing with AI, or on companion chatbots, found none."
+F25 Companion chatbot safety laws,South Korea,KR-ICNA-44-7,Narrower,Organization only,A general ban on circulating unlawful information; no law aimed at companion chatbots.
+F25 Companion chatbot safety laws,South Africa,,None found (searched),Any,No South African law aimed at companion chatbots was found in the first pass.
+F26 Unlicensed professional practice,European Union,,None found (searched),Any,No EU level law on unlicensed professional practice was found; member state law governs.
+F26 Unlicensed professional practice,United Kingdom,UK-LSA-14,Narrower,Any,Reserved legal activities only; medicine and psychology are in other Acts not yet read.
+F26 Unlicensed professional practice,Australia,AU-ACT-LPA-16,Narrower,Any,Legal practice only. Health professions are under a national law not read.
+F26 Unlicensed professional practice,India,IN-ADV-45,Narrower,Any,Practice in courts only. Medicine and psychology were not read.
+F26 Unlicensed professional practice,China,CN-LL-55,Narrower,Any,Legal services in the name of a lawyer only. Medicine and psychology were not read.
+F26 Unlicensed professional practice,Canada,CA-QC-PC-32,Same reach,Any,Quebec: practicing a reserved profession or using its title without a permit is prohibited. Other provinces and the penalty were not opened.
+F26 Unlicensed professional practice,South Korea,KR-AAL-109,Narrower,Any,Legal affairs only. Medicine and psychology were not read.
+F26 Unlicensed professional practice,South Africa,ZA-LPA-33,Narrower,Any,Legal services only. Health professions were not read.
+"F27 Court conduct, false evidence and obstruction",European Union,,None found (searched),Any,No EU level law on court conduct or perjury in national courts was found; member state law governs.
+"F27 Court conduct, false evidence and obstruction",United Kingdom,UK-SCA-51; UK-LSA-176; UK-PA-1; UK-CRA05-108; UK-EWOA-1,Narrower,Any,"Wasted costs orders against legal representatives, the duty to follow the regulator's rules, perjury by a sworn witness, discipline of judges, and obstructing fire and ambulance crews. Perverting the course of justice and obstructing the police were not read."
+"F27 Court conduct, false evidence and obstruction",Australia,AU-ACT-CC-703; AU-ACT-CC-713; AU-ACT-LPA-386; AU-ACT-JCA-14,Same reach,Any,Perjury and perverting the course of justice. A court ruling or practice note on fabricated citations was not read. A complaint about a judicial officer's behavior can be made to a judicial council.
+"F27 Court conduct, false evidence and obstruction",India,IN-BNS-229; IN-IPC-193; IN-ADV-35; IN-JIA-3,Narrower,Any,False evidence must be given or fabricated intentionally. Court sanctions for careless filings were not read. A judge can be removed or disciplined for misconduct or failure in the duties of office.
+"F27 Court conduct, false evidence and obstruction",China,CN-CL-305; CN-LL-40; CN-CPL-114; CN-LL-49; CN-JL-46,Narrower,Any,"The crimes, the court's fines and the lawyer penalties need forged evidence, deliberate falsehood or other listed breaches; none covers filing unchecked citations by carelessness, and bar association rules sit outside national law. A judge is disciplined for intentional breaches or for gross negligence that causes a wrong ruling with serious consequences."
+"F27 Court conduct, false evidence and obstruction",Canada,CA-CC-131; CA-CC-137; CA-CC-139; CA-QC-PC-59.2; CA-JA-80,Narrower,Any,"Perjury, fabricating evidence and obstructing justice are crimes needing intent to mislead. Filing made up citations by carelessness is a matter for court sanctions, not yet read. A judge can be removed or disciplined for misconduct or failure in the duties of office."
+"F27 Court conduct, false evidence and obstruction",South Korea,KR-CA-152; KR-CA-156; KR-AAL-24; KR-JDA-2,Narrower,Any,Perjury and false accusation need knowledge or purpose. Sanctions for careless court filings were not read. A judge can be removed or disciplined for misconduct or failure in the duties of office.
+"F27 Court conduct, false evidence and obstruction",South Africa,ZA-JPCO-9; ZA-LPA-36; ZA-JSCA-14,Narrower,Any,"False statements in affidavits are punished as perjury, lawyers answer to a code of conduct, and complaints lie against judges for gross incompetence or grossly negligent breaches of the judicial code. Judge made perjury and defeating the ends of justice, and obstructing emergency crews, were not read."
+"F28 False reports, hoaxes and false statements to officials",European Union,,None found (searched),Any,No EU level law on false reports to officials was found; member state law governs.
+"F28 False reports, hoaxes and false statements to officials",United Kingdom,UK-CLA-51; UK-OSA-179,Same reach,Any,False reports that waste police time are in an Act not yet read.
+"F28 False reports, hoaxes and false statements to officials",Australia,AU-ACT-CA-396; AU-ACT-CC-715,Same reach,Any,
+"F28 False reports, hoaxes and false statements to officials",India,IN-BNS-217; IN-IPC-182; IN-BNS-353; IN-DMA-54; IN-IPC-505,Same reach,Any,
+"F28 False reports, hoaxes and false statements to officials",China,CN-CL-291-1; CN-PSAPL-29; CN-CL-243,Same reach,Any,
+"F28 False reports, hoaxes and false statements to officials",Canada,CA-CC-372; CA-CC-140,Same reach,Any,
+"F28 False reports, hoaxes and false statements to officials",South Korea,KR-CA-156; KR-CA-137,Same reach,Any,
+"F28 False reports, hoaxes and false statements to officials",South Africa,ZA-CL-DEFEAT; ZA-EA56-27; ZA-POCDATARA-13; ZA-FBSA-21,Narrower,Any,"Having a false complaint laid against another person is the judge made crime of defeating or obstructing the course of justice. Bomb threats, false information about explosions, hoaxes about explosive or noxious substances, and summoning the fire brigade without reason are statutory crimes. Each was applied record by record. False statements to other government bodies, and false reports that accuse no one and call out no fire service, were outside what was read."
+"F29 Discrimination (race, sex, age and other grounds)",European Union,EU-RED-2; EU-GSD-4; EU-EED-2,Same reach,Any,"Race and sex in goods and services; religion, disability, age and sexual orientation in employment only."
+"F29 Discrimination (race, sex, age and other grounds)",United Kingdom,UK-EQA-19; UK-EQA-29; UK-EQA-26,Same reach,Any,Services and public functions are read; the employment sections are not.
+"F29 Discrimination (race, sex, age and other grounds)",Australia,AU-RDA-9; AU-SDA-22; AU-ACT-DA-20,Same reach,Any,"Race and sex under federal Acts; other attributes under the territory Act, whose list (s. 7) includes age, disability, physical features and gender identity."
+"F29 Discrimination (race, sex, age and other grounds)",India,IN-CON-15,Narrower,State only,The constitutional ban on discrimination binds the state; no general statute against private discrimination was read.
+"F29 Discrimination (race, sex, age and other grounds)",China,CN-PIPL-24,Narrower,Organization only,Only unreasonable differential treatment by automated decisions is read; general anti-discrimination statutes were not.
+"F29 Discrimination (race, sex, age and other grounds)",Canada,CA-CHRA-5,Same reach,Any,Federal sphere only; provincial human rights codes were not read.
+"F29 Discrimination (race, sex, age and other grounds)",South Korea,KR-NHRCA-2,Narrower,Any,The Commission can examine discriminatory acts and recommend; no damages rule was read.
+"F29 Discrimination (race, sex, age and other grounds)",South Africa,ZA-EQA-6; ZA-CON-9,Same reach,Any,
+F30 Disability discrimination,European Union,EU-EED-2,Narrower,Any,Disability discrimination is covered in employment and occupation only.
+F30 Disability discrimination,United Kingdom,UK-EQA-20; UK-EQA-29,Same reach,Any,Services and public functions are read; the employment sections are not.
+F30 Disability discrimination,Australia,AU-DDA-24,Same reach,Any,
+F30 Disability discrimination,India,IN-RPWD-3; IN-RPWD-89,Same reach,Any,"A general ban on disability discrimination, with a fine for any person who contravenes the Act. The specific duties of private employers and service providers were not opened."
+F30 Disability discrimination,Canada,CA-CHRA-5,Same reach,Any,Disability is a listed ground (s. 3). Federal sphere only.
+F30 Disability discrimination,South Korea,KR-NHRCA-2,Narrower,Any,Disability is a listed ground for the Commission. The Act with remedies for disability discrimination was not read.
+F30 Disability discrimination,South Africa,ZA-EQA-6; ZA-CON-9,Same reach,Any,Disability is a listed ground in the equality clause of the Constitution.
+F31 Automated decision laws,European Union,EU-GDPR-22; EU-AIA-5; EU-LED-10; EU-DPD-15,Narrower,Organization only,Reaches decisions based solely on automated processing with legal or similar effect; the US state laws also cover AI assisted decisions and some banned uses.
+F31 Automated decision laws,United Kingdom,UK-GDPR-22C; UK-DPA98-12,Narrower,Organization only,As the EU entry.
+F31 Automated decision laws,Australia,,None found (searched),Any,No federal rule on automated decisions was found in the first pass; the Privacy Act duty to describe them starts in December 2026.
+F31 Automated decision laws,India,,None found (searched),Any,None found in the first pass.
+F31 Automated decision laws,China,CN-PIPL-24,Narrower,Organization only,Transparency and fairness of automated decisions; a right to refuse decisions with major effect.
+F31 Automated decision laws,Canada,CA-QC-PPIPS-12.1,Narrower,Organization only,Quebec only: notice of decisions based exclusively on automated processing.
+F31 Automated decision laws,South Korea,KR-PIPA-37-2,Narrower,Organization only,Fully automated decisions with significant effect.
+F31 Automated decision laws,South Africa,ZA-POPIA-71,Narrower,Organization only,Decisions based solely on automated processing.
+F32 Rights violations by the state and its officials,European Union,EU-LED-10; EU-GDPR-5-9; EU-DPD-6-8,Narrower,State only,"Police and criminal justice bodies processing personal data, including biometric data and automated decisions, with a right to compensation. Other rights violations by national officials are member state law."
+F32 Rights violations by the state and its officials,United Kingdom,UK-EQA-29; UK-HRA-6; UK-RRA-19B,Same reach,State only,
+F32 Rights violations by the state and its officials,Australia,AU-ACT-HRA-40B; AU-CL-FI,Same reach,State only,The territory rights Act gives court relief but not damages; unlawful detention by the state is false imprisonment.
+F32 Rights violations by the state and its officials,India,IN-CL-PUBLAW; IN-CON-15; IN-CON-226,Same reach,State only,"The Supreme Court and High Courts enforce fundamental rights by writ and can award compensation against the State for breach of the right to life, taken from the headnote of one judgment on a death in police custody. High Courts can also issue writs to any authority for any other purpose, which is the route for challenging an official decision. Articles 19 and 22 are outside what was read."
+F32 Rights violations by the state and its officials,China,CN-SCL-4,Same reach,State only,
+F32 Rights violations by the state and its officials,Canada,CA-QC-CHR-49; CA-PA-4; CA-FCA-18.1,Same reach,State only,"Quebec: damages for unlawful interference with a protected right, including liberty and equality. Federal bodies: the Federal Court can quash or correct an unlawful decision on judicial review. Outside Quebec the Canadian Charter remedy (s. 24(1)) was not read."
+F32 Rights violations by the state and its officials,South Korea,KR-SCA-2,Same reach,State only,
+F32 Rights violations by the state and its officials,South Africa,ZA-CON-9; ZA-SLA-1; ZA-CL-DELICT,Same reach,State only,
+F33 Copyright,European Union,EU-INFOSOC-2,Same reach,Any,
+F33 Copyright,United Kingdom,UK-CDPA-16; UK-CDPA-107,Same reach,Any,
+F33 Copyright,Australia,AU-COPY-36; AU-COPY-132AC,Same reach,Any,
+F33 Copyright,India,IN-COPY-51; IN-COPY-63,Same reach,Any,
+F33 Copyright,China,CN-COPY-52; CN-CL-217,Same reach,Any,The crime needs a profit purpose and large gains.
+F33 Copyright,Canada,CA-COPY-27; CA-COPY-42,Same reach,Any,
+F33 Copyright,South Korea,KR-CPA-136,Same reach,Any,The crime is read; the civil claim is not.
+F33 Copyright,South Africa,ZA-COPY-23; ZA-COPY-27,Same reach,Any,
+F34 Competition and price fixing,European Union,EU-COMP-23,Same reach,Organization only,
+F34 Competition and price fixing,United Kingdom,UK-CA98-2,Same reach,Organization only,
+F34 Competition and price fixing,Australia,AU-CCA-45AF,Same reach,Organization only,The cartel offense is read; misuse of market power was not.
+F34 Competition and price fixing,India,IN-COMP-3,Same reach,Organization only,The ban is read; the penalty power is not.
+F34 Competition and price fixing,China,CN-AML-17,Same reach,Organization only,Read as amended in 2022; abuse of a dominant position was not read.
+F34 Competition and price fixing,Canada,CA-COMP-45,Same reach,Organization only,Agreements between competitors are a crime; abuse of dominance was not read.
+F34 Competition and price fixing,South Korea,KR-MRFTA-40,Same reach,Organization only,The ban is read; the surcharge and penalty articles are not.
+F34 Competition and price fixing,South Africa,ZA-COMP-4,Same reach,Organization only,Read as enacted in 1998.
+F35 Election rules and election deepfakes,European Union,EU-PAR-11; EU-AIA-50; EU-DSA-34,Narrower,Organization only,Political advertisements must be labeled and deep fakes disclosed. False statements about candidates and voting are member state law.
+F35 Election rules and election deepfakes,United Kingdom,UK-RPA-106,Narrower,Any,False statements of fact about a candidate. No rule on labeling AI in political advertising was found.
+F35 Election rules and election deepfakes,Australia,AU-CEA-329,Narrower,Any,Publishing matter likely to mislead an elector about casting a vote. No rule on deepfakes of candidates or on labeling AI in political advertising was found.
+F35 Election rules and election deepfakes,India,IN-BNS-175,Narrower,Any,A false statement about a candidate is reached; no rule on labeling AI in political advertising was read.
+F35 Election rules and election deepfakes,China,CN-PSAPL-29; CN-CL-291-1,Narrower,Any,"Spreading rumors that disturb public order draws a penalty, which can reach fabricated media about candidates. No election specific rule and no rule on disclosing AI in political advertising was found."
+F35 Election rules and election deepfakes,Canada,CA-CEA-480.1; CA-CEA-91; CA-CEA-352,Same reach,Any,
+F35 Election rules and election deepfakes,South Korea,KR-POEA-82-8; KR-POEA-250,Same reach,Any,
+F35 Election rules and election deepfakes,South Africa,ZA-EA-89,Narrower,Any,False information published to influence an election. No rule on labeling AI in political advertising was found.
+"F36 Foreign influence, espionage, sanctions and export control",European Union,EU-DSA-34,Narrower,Organization only,Only a duty on very large platforms to assess and reduce risks such as election manipulation; no EU level crime of acting for a foreign state.
+"F36 Foreign influence, espionage, sanctions and export control",United Kingdom,UK-NSA-13,Same reach,Any,
+"F36 Foreign influence, espionage, sanctions and export control",Australia,AU-CC-92.2; AU-CC-91.1,Same reach,Any,
+"F36 Foreign influence, espionage, sanctions and export control",India,IN-BNS-152; IN-OSA-3,Same reach,Any,Spying and acts against the sovereignty of the state are reached; no register of foreign agents was read.
+"F36 Foreign influence, espionage, sanctions and export control",China,CN-CL-110,Same reach,Any,
+"F36 Foreign influence, espionage, sanctions and export control",Canada,CA-FISOIA-20.4,Same reach,Any,
+"F36 Foreign influence, espionage, sanctions and export control",South Korea,KR-CA-98; KR-NSA-7,Narrower,Any,"Espionage for an enemy state, and praising or aiding an anti-state organization, which the Act defines as a group that claims to be the government or aims to overthrow the State (art. 2). The foreign influence records were read against that definition and none describes such a group. One search of the collection for a foreign agent registration law found none. Sanctions and export control were not read."
+"F36 Foreign influence, espionage, sanctions and export control",South Africa,ZA-POI-3,Narrower,Any,Obtaining or disclosing protected information for a foreign state. One search of government sites for a foreign agent registration law found none. Sanctions and export control were not read.
+"F37 Terrorism, weapons instructions, war crimes and hate crime",European Union,EU-TERR-5; EU-FD-913,Same reach,Any,
+"F37 Terrorism, weapons instructions, war crimes and hate crime",United Kingdom,UK-TA-58,Narrower,Any,"Read so far: collecting or holding information useful for terrorism. Supplying instructions, supporting a banned group, and war crimes are in sections not yet read."
+"F37 Terrorism, weapons instructions, war crimes and hate crime",Australia,AU-CC-101.5; AU-CC-80.2A,Narrower,Any,"Documents connected with terrorist acts, and urging force or violence against groups. Weapons instructions, war crimes and hate crime sentencing were not read."
+"F37 Terrorism, weapons instructions, war crimes and hate crime",India,IN-UAPA-18; IN-ESA-6,Narrower,Any,"Conspiring, advocating, inciting or knowingly facilitating a terrorist act, and counseling or aiding an explosives offense, are crimes. War crimes and hate crime were not read."
+"F37 Terrorism, weapons instructions, war crimes and hate crime",China,CN-CL-120; CN-CL-295; CN-CTL-80,Narrower,Any,"Funding, preparing, advocating or inciting terrorism and teaching others how to commit crimes are crimes, and lesser support draws detention and a fine. War crimes and hate crime were not read."
+"F37 Terrorism, weapons instructions, war crimes and hate crime",Canada,CA-CC-83.18,Narrower,Any,"Taking part in a terrorist group and counseling terrorism offenses are read; instructions for explosives, war crimes and hate crime sentencing were not."
+"F37 Terrorism, weapons instructions, war crimes and hate crime",South Korea,KR-ATA-17; KR-GEA-8-2,Narrower,Any,"Forming, joining, funding or recruiting for a terrorist group is a crime, and posting instructions for making guns or explosives online is banned. War crimes and hate crime were not read."
+"F37 Terrorism, weapons instructions, war crimes and hate crime",South Africa,ZA-POCDATARA-3,Narrower,Any,"Terrorism, and supporting, training or equipping an entity for terrorist activity, are crimes. The Explosives Act of 1956 has no offense of giving or publishing instructions for making explosives, and the 2003 Act meant to replace it is not in force. Laws on chemical, biological and nuclear weapons, war crimes and hate crime were outside what was read."
+"F38 Complicity (conspiracy, aiding)",European Union,EU-AIS-3,Narrower,Any,"Each EU criminal law directive makes incitement, aiding and abetting punishable for its own offenses; there is no general EU rule."
+"F38 Complicity (conspiracy, aiding)",United Kingdom,UK-SCA-44,Same reach,Any,Conspiracy was not read.
+"F38 Complicity (conspiracy, aiding)",Australia,AU-CC-11.2; AU-ACT-CC-45,Same reach,Any,
+"F38 Complicity (conspiracy, aiding)",India,IN-BNS-61; IN-IPC-120B,Same reach,Any,
+"F38 Complicity (conspiracy, aiding)",China,CN-CL-25; CN-CL-287-2,Same reach,Any,
+"F38 Complicity (conspiracy, aiding)",Canada,CA-CC-21,Same reach,Any,
+"F38 Complicity (conspiracy, aiding)",South Korea,KR-CA-30,Same reach,Any,
+"F38 Complicity (conspiracy, aiding)",South Africa,ZA-CL-COMMON,Same reach,Any,Common purpose. Conspiracy and incitement are in an Act whose text could not be opened.
+F39 Employment and labor standards,European Union,EU-PWD-10; EU-EED-2,Narrower,Organization only,Platform work and equal treatment in employment. Wages and working time were not read.
+F39 Employment and labor standards,United Kingdom,UK-ERA-94,Narrower,Organization only,"Unfair dismissal only; working time, wages and collective labor law were not read."
+F39 Employment and labor standards,Australia,AU-FWA-323; AU-FWA-385,Same reach,Organization only,
+F39 Employment and labor standards,India,IN-IRC-70; IN-IDA-25F,Narrower,Organization only,Retrenchment conditions only.
+F39 Employment and labor standards,China,CN-LCL-48,Narrower,Organization only,Unlawful termination only.
+F39 Employment and labor standards,Canada,CA-CLC-240,Narrower,Organization only,Unjust dismissal in federally regulated work; other labor standards were not read.
+F39 Employment and labor standards,South Korea,KR-LSA-23,Narrower,Organization only,Limits on dismissal only.
+F39 Employment and labor standards,South Africa,ZA-LRA-185,Narrower,Organization only,Unfair dismissal only. Wages and working time were not read.
+F40 Robocalls and AI voice calls,European Union,EU-EPD-5,Same reach,Any,
+F40 Robocalls and AI voice calls,United Kingdom,UK-PECR-19,Narrower,Any,"Recorded marketing calls by automated systems need consent. Calls that are not marketing, such as political or scam calls, were not read."
+F40 Robocalls and AI voice calls,Australia,AU-SPAM-16,Narrower,Any,"Unsolicited commercial email, SMS and instant messages. Voice calls and AI voices are under another Act not read."
+F40 Robocalls and AI voice calls,Canada,CA-CASL-6,Narrower,Organization only,Commercial electronic messages need consent. Rules on automated calls were not read.
+F40 Robocalls and AI voice calls,South Korea,KR-ICNA-50,Narrower,Any,For-profit advertising sent by electronic means needs prior consent. Calls that are not advertising were not read.
+F40 Robocalls and AI voice calls,South Africa,ZA-POPIA-69; ZA-CPA-11,Narrower,Any,"Direct marketing by automatic calling machines, SMS or email needs consent. Calls that are not marketing were not read."
+F41 Environment,European Union,EU-ENV-3,Same reach,Any,
+F41 Environment,United Kingdom,UK-EPR-12; UK-EPA-79,Same reach,Any,England and Wales. Operating a regulated plant without a permit is a crime; which plants need a permit sits in schedules that were not opened.
+F41 Environment,Australia,AU-ACT-EPA-137,Same reach,Any,
+F41 Environment,India,IN-AIR-21,Same reach,Any,Operating an industrial plant in a pollution control area needs the pollution board's consent. Penalties were not opened.
+F41 Environment,China,CN-EEC-174; CN-APL-19,Same reach,Organization only,"Bodies under discharge permit management need a discharge permit: article 174 of the Ecological Environment Code from August 15, 2026, and before that article 19 of the Air Pollution law, for units that discharge industrial waste gas. Penalties were not opened for the earlier law."
+F41 Environment,South Africa,ZA-AQA-22,Same reach,Any,"Running a listed activity without an atmospheric emission license is a crime. The list of activities, and suits by private persons to enforce environmental law, were outside what was read."
+F42 Trafficking and drugs,European Union,EU-THB-2,Narrower,Any,Trafficking in human beings. Drug trafficking is under a framework decision not read.
+F42 Trafficking and drugs,United Kingdom,UK-MSA-2; UK-MDA-4,Same reach,Any,Human trafficking and supplying controlled drugs are crimes. A civil claim for trafficking victims was not read.
+F42 Trafficking and drugs,Australia,AU-CC-271.2; AU-CC-302.4,Same reach,Any,
+F42 Trafficking and drugs,India,IN-BNS-143; IN-NDPS-8,Same reach,Any,"Trafficking of persons is a crime, and dealing in narcotic drugs outside the Act is prohibited."
+F42 Trafficking and drugs,Canada,CA-CC-279.01; CA-CDSA-5,Same reach,Any,Trafficking in persons and trafficking in controlled substances are crimes.
+F42 Trafficking and drugs,South Korea,KR-CA-289,Narrower,Any,Human trafficking is a crime. The narcotics Act was not read.
+F42 Trafficking and drugs,South Africa,ZA-TIP-4,Narrower,Any,Trafficking in persons. Drug offenses were not read.
+F43 False claims on public money,European Union,EU-PIF-3,Narrower,Any,Fraud affecting the EU budget only.
+F43 False claims on public money,United Kingdom,UK-FA-2,Same reach,Any,Reached as fraud; no separate civil action by informers.
+F43 False claims on public money,Australia,AU-CC-134.2,Same reach,Any,Reached as fraud on a Commonwealth entity; no separate civil action by informers.
+F43 False claims on public money,India,IN-BNS-318; IN-IPC-420,Same reach,Any,Reached as cheating.
+F43 False claims on public money,China,CN-CL-266,Same reach,Any,Reached as fraud.
+F43 False claims on public money,Canada,CA-CC-380,Same reach,Any,Reached as fraud.
+F43 False claims on public money,South Korea,KR-CA-347,Same reach,Any,Reached as fraud.
+F43 False claims on public money,South Africa,ZA-CL-FRAUD,Same reach,Any,Reached as fraud; no separate civil action by informers.
+F44 Telling people they are dealing with AI,European Union,EU-AIA-50-1; EU-AIA-50,Same reach,Organization only,
+F44 Telling people they are dealing with AI,United Kingdom,,None found (searched),Any,No UK rule telling people they are dealing with AI was found in the first pass.
+F44 Telling people they are dealing with AI,Australia,,None found (searched),Any,No Australian rule telling people they are dealing with AI was found in a search of the federal collection.
+F44 Telling people they are dealing with AI,India,,None found (searched),Any,One search of India Code for a rule on artificial intelligence or chatbots found none.
+F44 Telling people they are dealing with AI,China,,None found (searched),Any,Departmental rules on labeling AI content exist outside the scope read (national laws and judicial interpretations).
+F44 Telling people they are dealing with AI,Canada,,None found (searched),Any,"One search of the collection for a Canadian rule on telling people they are dealing with AI, or on companion chatbots, found none."
+F44 Telling people they are dealing with AI,South Korea,KR-AIBA-31,Same reach,Organization only,
+F44 Telling people they are dealing with AI,South Africa,,None found (searched),Any,No South African rule telling people they are dealing with AI was found in the first pass.
+F45 Unauthorized payments,European Union,EU-PSD2-73,Same reach,Organization only,The payer's payment service provider must refund an unauthorized payment.
+F45 Unauthorized payments,United Kingdom,UK-PSR-76,Same reach,Organization only,The payment service provider must refund an unauthorized payment.
+F45 Unauthorized payments,China,CN-ECL-57,Same reach,Organization only,The payment service provider bears the loss from an unauthorized payment unless the user was at fault.
+F45 Unauthorized payments,South Korea,KR-EFTA-9,Same reach,Organization only,The financial company must compensate a user for an unauthorized electronic transaction.
+F46 Nuisance and interference with contracts,European Union,,None found (searched),Any,No EU level law of nuisance or interference with contracts was found; member state law governs.
+F46 Nuisance and interference with contracts,United Kingdom,UK-CL-NUIS; UK-EPA-79,Narrower,Any,"Private nuisance protects people with an interest in land, and councils act on statutory nuisances such as noise and fumes. Public nuisance (for example blocked streets) and inducing breach of contract were not read."
+F46 Nuisance and interference with contracts,Australia,AU-CL-CONTRACT,Narrower,Any,Interference with contracts is a civil wrong recognized by the High Court; nuisance was not read.
+F46 Nuisance and interference with contracts,India,IN-BNS-270; IN-BNSS-152,Narrower,Any,Public nuisance is a crime and a magistrate can order a nuisance removed. Private nuisance as a civil wrong and interference with contracts were not read.
+F46 Nuisance and interference with contracts,China,CN-CC-1165; CN-TLL-6,Same reach,Any,
+F46 Nuisance and interference with contracts,Canada,CA-QC-CCQ-1457,Same reach,Any,Quebec civil law: general liability for fault.
+F46 Nuisance and interference with contracts,South Korea,KR-CIV-750,Same reach,Any,
+F46 Nuisance and interference with contracts,South Africa,ZA-CL-NUIS,Narrower,Any,Neighbour law: an interference with the use and enjoyment of property that an ordinary person in the area should not have to tolerate can be stopped by court order. Public nuisance (for example blocked streets) and interference with contracts were not read.
